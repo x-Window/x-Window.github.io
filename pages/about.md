@@ -8,7 +8,7 @@ weight: 3
 # **About Me**
 
 Salutations! I'm **{{ site.author.name }}** :wave:,<br>
-I am a software engineer on the Data Science Platform team at Klaviyo. Have a glimpse of my day to day [here](blog.html).
+I am a software engineer on the Data Science Platform team at [Klaviyo](https://www.klaviyo.com/). Have a glimpse of my day to day [here](blog.html).
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
