@@ -7,7 +7,7 @@ description: Tinder but for programmers to find project collaborators! Fun hacka
 
 # Codestrands
 
-Codestrands was the first hackathon project I had ever worked on. My team and I joined Purdue's Boilermake hackathon as freshmen, and proceeded to stay the whole 36 hours overnight (my first all nighter as well!) to get it done. It was an arduous labor, but a crucial experience I will always reflect on.
+Codestrands was the first hackathon project I had ever worked on. My team and I joined Purdue's Boilermake hackathon as freshmen, and proceeded to stay the whole 36 hours overnight (my first all nighter as well!) to get it done. It was an arduous labor, but a crucial experience I will always reflect upon.
 
 ## Login using authentication provider
 

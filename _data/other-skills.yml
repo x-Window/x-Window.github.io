@@ -1,7 +1,23 @@
-- name: Adobe Photoshop
+- name: Office 365 Suite
   percentage: 95
   color: info
 
-- name: Adobe Illustrator
+- name: Draw.io
   percentage: 90
   color: success
+
+- name: Atlassian Suite
+  percentage: 85
+  color: secondary
+
+- name: Jenkins
+  percentage: 75
+  color: warning
+
+- name: Kubernetes
+  percentage: 70
+  color: primary
+
+- name: Evidently
+  percentage: 60
+  color: danger

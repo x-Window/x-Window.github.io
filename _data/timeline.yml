@@ -1,17 +1,31 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
-- title: Software Engineer, Google, UK
-  from: 2018
+- title: SWE @ DS Platform, Klaviyo, Boston MA
+  from: June 2025
   to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  description: Returning for full time this summer!
+- title: SWE Intern @ DS Platform, Klaviyo, Boston MA
+  from: June 2024
+  to: August 2024
+  description: Pioneered Klaviyo’s first ML model monitoring pipeline using Evidently, handling division-wide alerting for
+               production drift detection, scaling to 10+ models, and laying groundwork for future monitoring projects.
+               Built an end-to-end batch monitoring job using Ray Serve, automating 100% of pipeline across several clusters.
+               Processed model input and output data of 150,000+ businesses’ touchpoints to generate data drift reports in S3.
+- title: SWE Intern @ System Test, Intuitive, Sunnyvale CA
+  from: May 2023
+  to: August 2023
+  description: Unblocked 100% of automatic software testing for manually tested medical device by isolating hardware and
+               virtualizing full system through Docker images. Delivered Pytest suites covering 60% of automatable test 
+               cases including UI touch tests through Squish framework.
+               Generated Jenkins CI/CD pipeline for event segmentation for QA testing and nightly runs. 
+- title: Researcher @ The Data Mine, Boeing, West Lafayette IN
+  from: August 2022
+  to: May 2023
+  description: Selected to be a part of the first ever cybersecurity project within The Data Mine Corporate Partners cohort.
+               Architected a third of core components in avionic digital twin to perform penetration testing and defense.
+               See more in projects tab.
+- title: Student, Purdue CS
+  from: August 2022
+  to: May 2025
+  description: 3.8 cGPA, early graduation. Relevant coursework- upper level algorithms, 
+               compilers, OS, databases, cloud computing, security, network programming.
+               Relevant organizations- CASA, CAC Art & Tech, Boilermake, The Data Mine
+
