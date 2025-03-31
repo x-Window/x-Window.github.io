@@ -2,17 +2,9 @@
   percentage: 95
   color: info
 
-- name: Draw.io
-  percentage: 90
-  color: success
-
 - name: Atlassian Suite
   percentage: 85
   color: secondary
-
-- name: Jenkins
-  percentage: 75
-  color: warning
 
 - name: Kubernetes
   percentage: 70
